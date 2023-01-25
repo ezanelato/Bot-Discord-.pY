@@ -61,4 +61,4 @@ async def on_message(message):
 
 
 
-client.run('MTA2NzkzMjg3MDc5MTkzODA1OA.GjdZ5g.44VDd9BBI8oO6WztqvB93obk5qHubJvN9pQLiI')
+client.run('TOKEN DO BOT')
